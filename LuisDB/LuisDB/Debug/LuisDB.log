@@ -1,0 +1,38 @@
+﻿Build started 06/03/2019 01:57:35 a.m..
+     1>Project "C:\Users\Familia\Documents\Visual Studio 2013\Projects\LuisDB\LuisDB\LuisDB.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt DatabaseManager.cpp
+         DatabaseManager.cpp
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(125): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(132): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(248): warning C4244: 'initializing' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(260): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(277): warning C4244: '=' : conversion from 'std::streamoff' to 'int', possible loss of data
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(613): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(644): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(819): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(843): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(876): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(856): warning C4101: 'newInt' : unreferenced local variable
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(857): warning C4101: 'newDouble' : unreferenced local variable
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1109): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1116): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1153): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1178): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1195): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1213): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1436): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1443): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1480): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1503): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1536): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\familia\documents\visual studio 2013\projects\luisdb\luisdb\databasemanager.cpp(1623): warning C4018: '>' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Familia\Documents\Visual Studio 2013\Projects\LuisDB\Debug\LuisDB.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Familia\Documents\Visual Studio 2013\Projects\LuisDB\Debug\LuisDB.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Familia\Documents\Visual Studio 2013\Projects\LuisDB\Debug\LuisDB.lib" /MACHINE:X86 Debug\DatabaseManager.obj
+         Debug\main.obj
+         LuisDB.vcxproj -> C:\Users\Familia\Documents\Visual Studio 2013\Projects\LuisDB\Debug\LuisDB.exe
+     1>Done Building Project "C:\Users\Familia\Documents\Visual Studio 2013\Projects\LuisDB\LuisDB\LuisDB.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.58
